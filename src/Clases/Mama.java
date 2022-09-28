@@ -8,7 +8,7 @@ package Clases;
  *
  * @author Nekhross
  */
-public class Mama {
+public class Mama extends Familiares{
     
      public String cedula;
     public String edad;
