@@ -1,4 +1,3 @@
 # Netbeans-JAVA
-CLASES= TODAS LAS CLASES CON ATRIBUTOS, EXTRAIDO DEL DIAGRAMA DE CLASES
-CLASES DESING= CLASE USADA PARA LA CREACION DE PANELES PERSONALIZADOS
-APP_PROYECTOVINCULACION = CLASES PRINCIPALES Y VENTANAS DE DISEÑO
+buenas docente, el programa cuenta con 3 carpetas, clases - aqui se encuentra las clases del diagrama, clases desing - aqui una clase depaneles personalizados
+y la carpeta principal
